@@ -1,7 +1,7 @@
 # learning
 超算学习
-#Linux基础命令
-1.pwd: 看目前位置(print working directory)
+##Linux基础命令
+pwd: 看目前位置(print working directory)
 
 ls: 列出目前位置档案(list)
 -a: 显示隐藏档案
@@ -17,4 +17,12 @@ mkdir <资料夹路径>: 建立资料夹
 
 cat: 印出档案内容
 
+cp <来源> <目的>: 复制档案
+-r: recursive（复制资料夹时可使用）
 
+rm <路径>: 删除档案
+-r: recursive（删除资料夹时可使用）
+
+mv <来源> <目的>: 移动档案 可用於重新命名
+
+vim <档案名称>：用vim开启档案 可以打开不存在的档名，存档后会出现新的档案
