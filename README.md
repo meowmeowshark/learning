@@ -1,6 +1,7 @@
 # learning
 超算学习
-##Linux基础命令
+Linux基础命令
+
 pwd: 看目前位置(print working directory)
 
 ls: 列出目前位置档案(list)
